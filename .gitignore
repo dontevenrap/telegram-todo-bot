@@ -1,0 +1,15 @@
+# env
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+
+# database / old storage
+tasks.db
+
+# logs
+bot.log
